@@ -174,3 +174,30 @@ section:nth-child(even){
     padding-bottom: 5rem;
 }
 
+.icons-container .icons{
+    border: var(--border);
+    box-shadow: var(--box-shadow);
+    border-radius: .5rem;
+    text-align: center;
+    padding: 2.5rem;
+}
+
+.icons-container .icons i{
+    font-size: 4.5rem;
+    color:var(--light-green);
+    padding-bottom: .7rem;
+}
+
+.icons-container .icons h3{
+    font-size: 4.5rem;
+    color: var(--light-black);
+    padding: .5rem 0;
+    text-shadow: var(--text-shadow);
+}
+
+.icons-container .icons p{
+    font-size: 1.7rem;
+    color: var(--grey);
+}
+
+/* ******SERVICES****** 
