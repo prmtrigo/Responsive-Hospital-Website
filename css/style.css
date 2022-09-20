@@ -165,3 +165,12 @@ section:nth-child(even){
 }
 
 /* *****ICONS***** */
+
+.icons-container{
+    display: grid;
+    gap: 2rem;
+    grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+
